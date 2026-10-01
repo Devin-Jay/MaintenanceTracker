@@ -1,0 +1,19 @@
+How many times at work have you thought, "Wow, this could be better documented, I'm tired of having a lot of papers to look through. Why didn't I know this? AHH what rooms have or havent been PMed. AHH what rooms have these features, issues, furnitures, etc."
+
+That is the purpose of this tracker.
+Make it easier to filter for rooms.
+Get reports of things.
+Make it easier to update room information.
+
+What do I need?
+Programming Language
+GUI: so its easy to use
+Database: to store room data
+
+What will I use?
+After research, I will be utilizing:
+Programming Language: C++
+GUI: WPF (Windows Presentation Foundation)
+Database: SQLite
+
+These are new tools I have never used so if I find that any don't work for my ideas, alternatives will be found.
